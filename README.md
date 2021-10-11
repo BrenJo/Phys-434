@@ -1,2 +1,2 @@
 # Phys-434
-Repository be full of projects for Advanced Computational Data Analysis.
+Repository full of projects for Advanced Computational Data Analysis.
